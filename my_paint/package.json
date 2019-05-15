@@ -1,0 +1,20 @@
+{
+  "name": "w2jsc502p2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w --mode development -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.epitech.eu:/benjamin.renel@epitech.eu/w2jsc502p2"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.3.1"
+  }
+}

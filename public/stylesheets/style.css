@@ -1,0 +1,21 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #313131;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+#app {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
